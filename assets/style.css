@@ -1,0 +1,83 @@
+
+
+body {
+    background-color: rgb(202, 215, 218);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    padding: .30%;
+    margin: 5px;
+    margin-left: 2px;
+ }
+
+ .navbarcolor {
+     color: white;
+ }
+
+#navbarNav { 
+    font-size: 20px;
+    padding: .01%;
+    margin: 5px;
+    margin-left: 2px;
+    color:white;
+}
+
+ .container {
+background-color:  rgb(6, 110, 136);
+background-image: url ("assets\images\1.jpg");
+height: auto;
+margin-top: 50px;
+margin-bottom: 50px;
+padding : 50px
+ }
+
+ .col-md {
+     margin: 10rem, 5rem;
+   
+ }
+.card {
+    color:black;
+    
+}
+
+.btn {
+    background-color: rgb(3, 41, 51);
+}
+
+footer {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa-linkedin-square {
+    background: #2867B2;
+    color: white;
+  }
+  .fa-github-square {
+    background: black;
+    color: white;
+  }
+
+.fa-address-book-o{
+    background: red;
+    color: white;
+  }
+  .fa-git-square{
+    background: black;
+    color: white;
+  }
