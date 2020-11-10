@@ -22,8 +22,10 @@ Your resume should include:
 ## Screenshot of a page in 3 different sizes >>
 
 ![demonstration](.\assets\images\S1.png)
-![demonstration](.\assets\images\M2.png)
 ![demonstration](.\assets\images\L3.png)
+![demonstration](.\assets\images\new1.png)
+![demonstration](.\assets\images\new2.png)
+
 
 
 ### 3. Updated Resume
