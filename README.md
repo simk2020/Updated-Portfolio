@@ -29,35 +29,6 @@ Github pages link:  https://simk2020.github.io/updatedPortfolio/.
 
 3. Have a link to a downloadable PDF of your resume
 
-### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-## Updated GitHub Profile
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-Your GitHub profile must contain at least the following items:
-
-8. README files. Every pinned project should contain a README file with:
-
-   * Title of app
-   * Live link to deployed app
-   * List of technologies used
-   * 1-2 sentences explaining what the app is
-   * 2-3 Screenshots / gifs of the app
-   * License (usually MIT)
-   * Contact information for you and any collaborators
-
-
 ### 3. Updated Resume
 
 💁 Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
