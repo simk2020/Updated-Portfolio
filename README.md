@@ -15,9 +15,7 @@ Github pages link:  https://simk2020.github.io/updatedPortfolio/.
 Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
 
 Your resume should include:
-
 * a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub
-
 * a technical skills section, with all programming languages and technologies listed
 
 * 3 of your strongest projects/homework assignments with brief description, languages used, and URL
