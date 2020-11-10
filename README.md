@@ -25,10 +25,3 @@ Your resume should include:
 ![demonstration](.\assets\images\L3.png)
 ![demonstration](.\assets\images\new1.png)
 ![demonstration](.\assets\images\new2.png)
-
-
-
-### 3. Updated Resume
-
-💁 
-
